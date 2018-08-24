@@ -1,0 +1,14 @@
+C:\Users\Vitor777\source\repos\Udemy\Udemy\bin\Debug\netcoreapp2.1\Udemy.deps.json
+C:\Users\Vitor777\source\repos\Udemy\Udemy\bin\Debug\netcoreapp2.1\Udemy.runtimeconfig.json
+C:\Users\Vitor777\source\repos\Udemy\Udemy\bin\Debug\netcoreapp2.1\Udemy.runtimeconfig.dev.json
+C:\Users\Vitor777\source\repos\Udemy\Udemy\bin\Debug\netcoreapp2.1\Udemy.dll
+C:\Users\Vitor777\source\repos\Udemy\Udemy\bin\Debug\netcoreapp2.1\Udemy.pdb
+C:\Users\Vitor777\source\repos\Udemy\Udemy\obj\Debug\netcoreapp2.1\Udemy.csprojAssemblyReference.cache
+C:\Users\Vitor777\source\repos\Udemy\Udemy\obj\Debug\netcoreapp2.1\Udemy.csproj.CoreCompileInputs.cache
+C:\Users\Vitor777\source\repos\Udemy\Udemy\obj\Debug\netcoreapp2.1\Udemy.RazorAssemblyInfo.cache
+C:\Users\Vitor777\source\repos\Udemy\Udemy\obj\Debug\netcoreapp2.1\Udemy.RazorAssemblyInfo.cs
+C:\Users\Vitor777\source\repos\Udemy\Udemy\obj\Debug\netcoreapp2.1\Udemy.AssemblyInfoInputs.cache
+C:\Users\Vitor777\source\repos\Udemy\Udemy\obj\Debug\netcoreapp2.1\Udemy.AssemblyInfo.cs
+C:\Users\Vitor777\source\repos\Udemy\Udemy\obj\Debug\netcoreapp2.1\Udemy.RazorTargetAssemblyInfo.cache
+C:\Users\Vitor777\source\repos\Udemy\Udemy\obj\Debug\netcoreapp2.1\Udemy.dll
+C:\Users\Vitor777\source\repos\Udemy\Udemy\obj\Debug\netcoreapp2.1\Udemy.pdb
